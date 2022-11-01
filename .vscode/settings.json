@@ -1,0 +1,6 @@
+{
+	"go.goroot": "/Users/iiokatakumimi/enjoy/go",
+	"gopls": {
+		"build.experimentalWorkspaceModule": true
+	}
+}
